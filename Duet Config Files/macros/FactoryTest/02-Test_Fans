@@ -1,0 +1,31 @@
+; Test Routine for Duet WiFi and Ethernet March 2018: Test PWM fans
+
+;Start logging
+M929 P"test2log.txt" S1 ; only for V1.20
+
+
+M117 PRESS X ENDSTOP, CHECK FANS FULL ON
+M577 X S2 ; wait for endstop to trigger
+M577 X S0 ; wait for endstop release
+; Full on fan test
+M106 P0 S255
+M106 P1 S255
+M106 P2 S255
+
+M117 PRESS X ENDSTOP, FANS TURN SLOWLY?
+M577 X S2 ; wait for endstop to trigger
+M577 X S0 ; wait for endstop release
+;slow fan test
+M106 P2 S0.1
+M106 P1 S0.1
+M106 P0 S0.1
+
+M117 PRESS X ENDSTOP, FANS STOP?
+M577 X S2 ; wait for endstop to trigger
+M577 X S0 ; wait for endstop release
+; Turn fans off
+M106 P0 S0
+M106 P1 S0
+M106 P2 S0
+
+M117 GO ON TO TEST 03

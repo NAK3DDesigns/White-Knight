@@ -1,0 +1,20 @@
+; Test Routine for Duet WiFi and Ethernet March 2018 - Check IP Probe, PanelDue and endstops
+
+;Start logging
+M929 P"test1log.txt" S1 ; only for V1.20
+
+M117 CHECK IR PROBE & PANELDUE THEN PRESS X ENDSTOP.
+M577 X S2 ; wait for endstop to trigger
+M577 X S0 ; wait for endstop release
+
+
+;----setup motors for test----
+;M906 X2000 Y2000 Z2000 E2000:2000 I100 ;set all motors to 2A with no idle current reduction
+
+;----homing line (tests endstops)----
+M117 PRESS ALL THREE ENDSTOPS TO END HOMING
+G91					; use relative positioning
+G1 S1 X3200 Y3200 Z3200 F9000		; move XYZ motors, stopping when endstops are triggered
+;----end homing lines----
+
+M117 GO ON TO TEST 02

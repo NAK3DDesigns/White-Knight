@@ -1,0 +1,7 @@
+; SetNetwork macro to set up access to dummy test Wifi network
+M552 S0
+G4 P1000
+M587 S"TNCAP2FCC19" P"2DEB2534A0" I192.168.1.14
+M587
+M552 S1
+M552

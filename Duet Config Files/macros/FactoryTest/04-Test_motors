@@ -1,0 +1,97 @@
+; Motor Test Routine for Duet WiFi and Ethernet March 2018
+
+;Start logging
+M929 P"test4log.txt" S1 ; only for V1.20 and above
+
+; Test motors
+;----setup motors for test----
+
+
+;The printer dimensions are deliberately set very high to allow a lot of moves during testing
+M665 R10000 L20000 B10000 H10000		; set delta radius, diagonal rod length, printable radius and homed height
+M350 X16 Y16 Z16 E16:16 I0			; Set 16x microstepping with NO interpolation
+M92 X80 Y80 Z80	E80:80				; Set axis steps/mm for 1.8deg motor even though test rig has 0.9s
+M906 X2000 Y2000 Z2000 E2000:2000 I100 		; Set all motors to 2A with no idle current reduction
+M201 X10000 Y10000 Z10000 E10000		; Acceleration limits (mm/s^2)
+M203 X100000 Y100000 Z100000 E100000		; Maximum speeds (mm/min)
+
+; Test motors
+
+M117 PRESS ALL THREE ENDSTOPS TO END HOMING
+G91						; use relative positioning
+G1 S1 X3200 Y3200 Z3200 F9000			; move XYZ motors, stopping when endstops are triggered
+;----end homing lines----
+
+M117 TEST Z
+G91
+G92 X0 Y0 Z0
+;M201 Z1000
+G1 S2 Z2000 F50000
+G1 S2 Z-2000 F50000
+G1 S2 Z2000 F50000
+G1 S2 Z-2000 F50000
+G1 S2 Z2000 F50000
+G1 S2 Z-2000 F50000
+G1 S2 Z2000 F50000
+G1 S2 Z-2000 F50000
+
+M117 TEST Y
+G91
+G92 X0 Y0 Z0
+;M201 Y1000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+
+M117 TEST X
+G91
+G92 X0 Y0 Z0
+;M201 X1000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+
+; Test E0 mapped to X
+M117 TEST E0
+M584 X3
+G91
+G92 X0 Y0 Z0
+;M201 X1000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+G1 S2 X2000 F50000
+G1 S2 X-2000 F50000
+M584 X0 Y1 Z2 E3:4
+
+; Test E1 mapped to Y
+M117 TEST E1
+M584 Y4
+G91
+G92 X0 Y0 Z0
+;M201 Y1000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+G1 S2 Y2000 F50000
+G1 S2 Y-2000 F50000
+M584 X0 Y1 Z2 E3:4
+
+M84 ; disable motors
+M117 END OF TEST - POWER OFF BEFORE OPENING LID!; send message to DWC
