@@ -12,7 +12,7 @@ M667 S1                                      ; Select CoreXY mode
 ; Network
 M550 P"White_Knight"                         ; Set machine name
 M552 S1                                      ; Enable network
-M587 S"NAK-3D-Designs" P"Jamskate"           ; Configure access point. You can delete this line once connected
+;M587 S"SSID" P"Password"                     ; Configure access point. You can delete this line once connected
 M586 P0 S1                                   ; Enable HTTP
 M586 P1 S0                                   ; Disable FTP
 M586 P2 S0                                   ; Disable Telnet
