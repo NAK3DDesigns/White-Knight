@@ -1,42 +1,42 @@
 # BOM
 ## Components
-| Part                                               | Qty | Cost    | source                 |  |
-|----------------------------------------------------|-----|---------|------------------------|--|
-| 100x Spring Loaded T-Nuts 2020 M4/M5               | 2   | $25.90  | Zyltec                 |  |
-| MGN12 Linear Rail - 1000mm - One Carriage          | 2   | $103.90 | Zyltec                 |  |
-| MGN12 Linear Rail - 500mm - One Carriage           | 1   | $34.95  | Zyltec                 |  |
-| Extrusions                                         | 1   | $154.39 | Openbuilds             |  |
-| Duet Wifi                                          | 1   | $169.90 | Printed Solid          |  |
-| PanelDue 7i                                        | 1   | $104.90 | Printed Solid          |  |
-| Bondtech BMG                                       | 1   | $80.00  | Printed Solid          |  |
-| Mosquito Mount                                     | 1   | $11.99  | Printed Solid          |  |
-| Mosquito Hotend                                    | 1   | $144.80 | Printed Solid          |  |
-| Slice Thermistor                                   | 1   | $39.99  | Printed Solid          |  |
-| Slice 50W heater                                   | 1   | $18.80  | Printed Solid          |  |
-| LDO .9 Stepper                                     | 3   | $45.00  | Printed Solid          |  |
-| Nema 17 5:1 geared stepper                         | 1   | $39.87  | E3D Online             |  |
-| 623zz Bearings                                     | 20  | $12.00  | e-bay                  |  |
-| 60T 1/2 GT2 pulley                                 | 1   | $13.00  | e-bay                  |  |
-| 6202RS2 1/2 ID bearing                             | 4   | $38.00  |                        |  |
-| Micro switch endstop                               | 2   | $2.00   | Openbuilds             |  |
-| Aluminum tube 3"x16"x.125" (61ARDT3125)            | 2   | $24.68  | Midweststeelsupply.com |  |
-| Aluminum Tool Plate 3/8" x 15" x 20.5" (ALI38)     | 1   | $50.64  | Midweststeelsupply.com |  |
-| Aluminum tool plate 3/8" x 9" x 20.5" (ALI38)      | 1   | $34.32  | Midweststeelsupply.com |  |
-| 6061 Aluminum Square Bar 1/2" x 19" (61ASB12)      | 1   | $7.95   | Midweststeelsupply.com |  |
-| Stainless Steel Round Bar 1/2" x 20.5" (316SSRB12) | 1   | $19.28  | Midweststeelsupply.com |  |
-| Full hardened Stainless steel belt 400mm x 1920mm  | 1   | $210.00 | Belttechnologies.com   |  |
-| Buildtak sheet                                     | 1   | TBD     | Buildtak               |  |
-| Meanwell LRS350-24 powersupply                     | 1   | $42.00  | Amazon                 |  |
-| Silicone Bed heater                                | 1   | $55.00  | e-bay                  |  |
-| Rubber feet                                        | 1   | $10.00  | e-bay                  |  |
-| 1/2" x 19" aluminum sqaure bar                     | 1   | $7.95   | Midweststeelsupply.com |  |
-| Noctua 40mm fans                                   | 3   | $45.00  | Amazon                 |  |
-| 3/8 PTFE, and fittings                             | 1   | $12.00  | Lowes                  |  |
-| Roller drive belt A6R51M125060                     | 1   | $6.00   | SDP/SI                 |  |
-| 5 meters of GT2 Belt                               | 1   | $50.00  | SDP/SI                 |  |
-| 24v Blower Fans                                    | 2   | $18.00  | Tinymachines.com       |  |
-| stepper heat sink                                  | 1   | $5.00   | ebay                   |  |
-| Bulk Harware order (nuts, bolt, etc)               | 1   | $202.73 | McMaster Carr          |  |
+| Part                                               | Qty | Cost    | source                 |
+|----------------------------------------------------|-----|---------|------------------------|
+| 100x Spring Loaded T-Nuts 2020 M4/M5               | 2   | $25.90  | Zyltec                 |
+| MGN12 Linear Rail - 1000mm - One Carriage          | 2   | $103.90 | Zyltec                 |
+| MGN12 Linear Rail - 500mm - One Carriage           | 1   | $34.95  | Zyltec                 |
+| Extrusions                                         | 1   | $154.39 | Openbuilds             |
+| Duet Wifi                                          | 1   | $169.90 | Printed Solid          |
+| PanelDue 7i                                        | 1   | $104.90 | Printed Solid          |
+| Bondtech BMG                                       | 1   | $80.00  | Printed Solid          |
+| Mosquito Mount                                     | 1   | $11.99  | Printed Solid          |
+| Mosquito Hotend                                    | 1   | $144.80 | Printed Solid          |
+| Slice Thermistor                                   | 1   | $39.99  | Printed Solid          |
+| Slice 50W heater                                   | 1   | $18.80  | Printed Solid          |
+| LDO .9 Stepper                                     | 3   | $45.00  | Printed Solid          |
+| Nema 17 5:1 geared stepper                         | 1   | $39.87  | E3D Online             |
+| 623zz Bearings                                     | 20  | $12.00  | e-bay                  |
+| 60T 1/2 GT2 pulley                                 | 1   | $13.00  | e-bay                  |
+| 6202RS2 1/2 ID bearing                             | 4   | $38.00  |                        |
+| Micro switch endstop                               | 2   | $2.00   | Openbuilds             |
+| Aluminum tube 3"x16"x.125" (61ARDT3125)            | 2   | $24.68  | Midweststeelsupply.com |
+| Aluminum Tool Plate 3/8" x 15" x 20.5" (ALI38)     | 1   | $50.64  | Midweststeelsupply.com |
+| Aluminum tool plate 3/8" x 9" x 20.5" (ALI38)      | 1   | $34.32  | Midweststeelsupply.com |
+| 6061 Aluminum Square Bar 1/2" x 19" (61ASB12)      | 1   | $7.95   | Midweststeelsupply.com |
+| Stainless Steel Round Bar 1/2" x 20.5" (316SSRB12) | 1   | $19.28  | Midweststeelsupply.com |
+| Full hardened Stainless steel belt 400mm x 1920mm  | 1   | $210.00 | Belttechnologies.com   |
+| Buildtak sheet                                     | 1   | TBD     | Buildtak               |
+| Meanwell LRS350-24 powersupply                     | 1   | $42.00  | Amazon                 |
+| Silicone Bed heater                                | 1   | $55.00  | e-bay                  |
+| Rubber feet                                        | 1   | $10.00  | e-bay                  |
+| 1/2" x 19" aluminum sqaure bar                     | 1   | $7.95   | Midweststeelsupply.com |
+| Noctua 40mm fans                                   | 3   | $45.00  | Amazon                 |
+| 3/8 PTFE, and fittings                             | 1   | $12.00  | Lowes                  |
+| Roller drive belt A6R51M125060                     | 1   | $6.00   | SDP/SI                 |
+| 5 meters of GT2 Belt                               | 1   | $50.00  | SDP/SI                 |
+| 24v Blower Fans                                    | 2   | $18.00  | Tinymachines.com       |
+| stepper heat sink                                  | 1   | $5.00   | ebay                   |
+| Bulk Harware order (nuts, bolt, etc)               | 1   | $202.73 | McMaster Carr          |
 
 ## Extrusions
 | Size           | Length | Qty |
