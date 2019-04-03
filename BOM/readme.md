@@ -1,6 +1,6 @@
 # BOM
 ## Components
-| Part                                               | Qty | Cost    | source                 |
+| Part                                               | Qty | Cost    | Source                 |
 |----------------------------------------------------|-----|---------|------------------------|
 | 100x Spring Loaded T-Nuts 2020 M4/M5               | 2   | $25.90  | Zyltec                 |
 | MGN12 Linear Rail - 1000mm - One Carriage          | 2   | $103.90 | Zyltec                 |
@@ -50,7 +50,7 @@
 
 
 ## Bulk Hardware
-| Item                            | Qty | source        | part#                   | 
+| Item                            | Qty | Source        | Part #                  | 
 |---------------------------------|-----|---------------|-------------------------| 
 | M2 x 12mm bolt                  | 8   | McMaster-Carr | 92095A455               | 
 | M2 Nut                          | 2   | McMaster-Carr | 91828A111               | 
