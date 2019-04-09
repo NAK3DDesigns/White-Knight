@@ -79,7 +79,7 @@
 | M5 x 18mm Button Bolt           | 10  | McMaster-Carr | 92095A481               | 
 | M5 x 30mm Bolt                  | 18  | McMaster-Carr | 91292A192               | 
 | #2 x3/8in thread cutting screws | 2   |               |                         | 
-| JST connectors                  | 6   |               |                         | 
+| JST connectors                  | 6   | ebay          |                         | 
 | Shaft Collar                    | 7   | McMaster-Carr | 9946K15                 | 
 | M3 x8mm Knurled screw           | 2   | McMaster-Carr | 92545A111               | 
 
