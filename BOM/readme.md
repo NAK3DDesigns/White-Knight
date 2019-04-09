@@ -38,6 +38,7 @@
 | stepper heat sink                                  | 1   | $5.00   | ebay                   |
 | Bulk Harware order (nuts, bolt, etc)               | 1   | $202.73 | McMaster Carr          |
 
+
 ## Extrusions
 | Size           | Length | Qty |
 |----------------|--------|-----|
@@ -81,6 +82,20 @@
 | JST connectors                  | 6   |               |                         | 
 | Shaft Collar                    | 7   | McMaster-Carr | 9946K15                 | 
 | M3 x8mm Knurled screw           | 2   | McMaster-Carr | 92545A111               | 
+
+
+## Wire Harness
+| Item                            | Qty | Source        | Part #                  | 
+|---------------------------------|-----|---------------|-------------------------| 
+| 34 Pin Male IDC connector       | 1   | TME.com       | AWHP-34P                | 
+| 34 Pin Female IDC Connector     | 1   | Digikey.com   | 3M157228-ND             | 
+| 4 position Molex Plug           | 1   | Digikey.com   | WM1018-ND               | 
+| 4 position Molex receptical     | 1   | Digikey.com   | WM3701-ND               | 
+| Molex Male pin                  | 4   | Digikey.com   | WM2500-ND               | 
+| Molex female pin                | 4   | Digikey.com   | WM2501-ND               | 
+| 20AWG 2 conductor blk/red       | 1   | Digikey.com   | CN180BR-25-ND           | 
+| 26AWG 34 cond multi color ribbon| 1   | Digikey.com   | 3M157870-25-ND          | 
+
 
 ## 34 pin connector pinout
 ![pinout](34_pin_connector_pinout.png)
