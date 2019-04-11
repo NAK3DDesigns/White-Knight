@@ -17,7 +17,7 @@
 | Nema 17 5:1 geared stepper                         | 1   | $39.87  | E3D Online             |
 | 623zz Bearings                                     | 20  | $12.00  | e-bay                  |
 | 60T 1/2 GT2 pulley                                 | 1   | $13.00  | e-bay                  |
-| 6202RS2 1/2 ID bearing                             | 4   | $38.00  |                        |
+| 6202-2RS 1/2 ID bearing                            | 4   | $11.00  | thebigbearingstore.com |
 | Micro switch endstop                               | 2   | $2.00   | Openbuilds             |
 | Aluminum tube 3"x16"x.125" (61ARDT3125)            | 2   | $24.68  | Midweststeelsupply.com |
 | Aluminum Tool Plate 3/8" x 15" x 20.5" (ALI38)     | 1   | $50.64  | Midweststeelsupply.com |
@@ -73,7 +73,7 @@
 | M5 Square nut                   | 4   | McMaster-Carr | 90225A101               | 
 | M5 T-nuts                       | 118 | Zyltec.com    | HW-M5-SPRNG-T-NUT-100PK | 
 | M5 high temp washers            | 10  | McMaster-Carr | 93785A214               | 
-| M5 x 15mm custom washer         | 10  |               |                         | 
+| M5 x 15mm high temp/nylon washer| 10  |               |                         | 
 | M5 x 8mm Button Bolt            | 104 | McMaster-Carr | 92095A207               | 
 | M5 x 16mm Bolt                  | 23  | McMaster-Carr | 91292A126               | 
 | M5 x 18mm Button Bolt           | 10  | McMaster-Carr | 92095A481               | 
