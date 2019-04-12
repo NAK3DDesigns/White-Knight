@@ -35,7 +35,8 @@
 | Roller drive belt A6R51M125060                     | 1   | $6.00   | SDP/SI                 |
 | 5 meters of GT2 Belt                               | 1   | $50.00  | SDP/SI                 |
 | 24v Blower Fans                                    | 2   | $18.00  | Tinymachines.com       |
-| stepper heat sink                                  | 1   | $5.00   | ebay                   |
+| stepper heat sink                                  | 1   | $5.00   | Amazon part #A-0047    |
+| Power Connector/switch                             | 1   | $3.00   | ebay item#152765834186 |
 | Bulk Harware order (nuts, bolt, etc)               | 1   | $202.73 | McMaster Carr          |
 
 
