@@ -1,6 +1,7 @@
 Folder for printer STL's
 Below are basic print setting for each file..
-
+# Printer STL's
+## Basic Settings
 | File                                                  | Infill | Nozzle | Perimeters | Layer Height |
 |-------------------------------------------------------|--------|--------|------------|--------------|
 | 1-All_Belt_Clamps V2.stl                              | 85%    | 0.4    | 4          | 0.2          |
