@@ -1,5 +1,5 @@
 # Printer STL's
-## Basic Settings
+## Basic Print Settings
 | File                                                  | Infill | Nozzle | Perimeters | Layer Height |
 |-------------------------------------------------------|--------|--------|------------|--------------|
 | 1-All_Belt_Clamps V2.stl                              | 85%    | 0.4    | 4          | 0.2          |
