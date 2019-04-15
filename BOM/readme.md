@@ -31,7 +31,6 @@
 | Rubber feet                                        | 1   | $10.00  | e-bay                  |
 | 1/2" x 19" aluminum sqaure bar                     | 1   | $7.95   | Midweststeelsupply.com |
 | Noctua 40mm fans                                   | 3   | $45.00  | Amazon                 |
-| 3/8 PTFE, and fittings                             | 1   | $12.00  | Lowes                  |
 | Roller drive belt A6R51M125060                     | 1   | $6.00   | SDP/SI                 |
 | 5 meters of GT2 Belt                               | 1   | $50.00  | SDP/SI                 |
 | 24v Blower Fans                                    | 2   | $18.00  | Tinymachines.com       |
