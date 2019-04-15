@@ -15,7 +15,7 @@
 | Slice 50W heater                                   | 1   | $18.80  | Printed Solid          |
 | LDO .9 Stepper                                     | 3   | $45.00  | Printed Solid          |
 | Nema 17 5:1 geared stepper                         | 1   | $39.87  | E3D Online             |
-| 623zz Bearings                                     | 20  | $12.00  | e-bay                  |
+| F623zz Bearings                                    | 20  | $12.00  | e-bay                  |
 | 60T 1/2 GT2 pulley                                 | 1   | $13.00  | e-bay                  |
 | 6202-2RS 1/2 ID bearing                            | 4   | $11.00  | thebigbearingstore.com |
 | Micro switch endstop                               | 2   | $2.00   | Openbuilds             |
