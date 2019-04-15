@@ -38,6 +38,9 @@
 | stepper heat sink                                  | 1   | $5.00   | Amazon part #A-0047    |
 | Power Connector/switch                             | 1   | $3.00   | ebay item#152765834186 |
 | Bulk Harware order (nuts, bolt, etc)               | 1   | $202.73 | McMaster Carr          |
+| 3/8-in Push Connect x 1/4-in MIP Male Fitting      | 1   | $3.78   | Lowes.com #835028      |
+| 3/8-in Push Connect x 1/4-in MIP dia 90-Degree 	   | 1   | $4.18	 | Lowes.com #835045      |
+| 3/8-in x 25-ft Polyethylene Tubing                 | 1   | $6.18   | Lowes.com #814305      |
 
 
 ## Extrusions
