@@ -15,9 +15,11 @@
 | Slice 50W heater                                   | 1   | $18.80  | Printed Solid          |
 | LDO .9 Stepper                                     | 3   | $45.00  | Printed Solid          |
 | Nema 17 5:1 geared stepper                         | 1   | $39.87  | E3D Online             |
-| 623zz Bearings                                     | 20  | $12.00  | e-bay                  |
+| F623zz Bearings                                    | 20  | $12.00  | e-bay                  |
+| 2GT Timing pulley 20Tooth 5mm Bore                 | 2   | $2.00   | e-bay                  |
+| 2GT Timing pulley 20tooth 8mm Bore                 | 1   | $2.00   | e-bay                  |
 | 60T 1/2 GT2 pulley                                 | 1   | $13.00  | e-bay                  |
-| 6202RS2 1/2 ID bearing                             | 4   | $38.00  |                        |
+| 6202-2RS 1/2 ID bearing                            | 4   | $11.00  | thebigbearingstore.com |
 | Micro switch endstop                               | 2   | $2.00   | Openbuilds             |
 | Aluminum tube 3"x16"x.125" (61ARDT3125)            | 2   | $24.68  | Midweststeelsupply.com |
 | Aluminum Tool Plate 3/8" x 15" x 20.5" (ALI38)     | 1   | $50.64  | Midweststeelsupply.com |
@@ -25,18 +27,22 @@
 | 6061 Aluminum Square Bar 1/2" x 19" (61ASB12)      | 1   | $7.95   | Midweststeelsupply.com |
 | Stainless Steel Round Bar 1/2" x 20.5" (316SSRB12) | 1   | $19.28  | Midweststeelsupply.com |
 | Full hardened Stainless steel belt 400mm x 1920mm  | 1   | $210.00 | Belttechnologies.com   |
-| Buildtak sheet 405mm x 2000mm                      | 1   | TBD     | Buildtak               |
-| Meanwell LRS350-24 powersupply                     | 1   | $42.00  | Amazon                 |
-| Silicone Bed heater                                | 1   | $55.00  | e-bay                  |
+| Buildtak sheet 405mm x 2000mm (3 week lead time)   | 1   | $290.00 | Buildtak.com           |
+| Meanwell LRS350-24 powersupply                     | 1   | $30.00  | Jameco.com #2219823    |
+| Silicone Bed heater (ebay item #143206149832)      | 1   | $55.00  | e-bay                  |
 | Rubber feet                                        | 1   | $10.00  | e-bay                  |
 | 1/2" x 19" aluminum sqaure bar                     | 1   | $7.95   | Midweststeelsupply.com |
 | Noctua 40mm fans                                   | 3   | $45.00  | Amazon                 |
-| 3/8 PTFE, and fittings                             | 1   | $12.00  | Lowes                  |
 | Roller drive belt A6R51M125060                     | 1   | $6.00   | SDP/SI                 |
 | 5 meters of GT2 Belt                               | 1   | $50.00  | SDP/SI                 |
 | 24v Blower Fans                                    | 2   | $18.00  | Tinymachines.com       |
-| stepper heat sink                                  | 1   | $5.00   | ebay                   |
+| stepper heat sink                                  | 1   | $5.00   | Amazon part #A-0047    |
+| Power Connector/switch                             | 1   | $3.00   | ebay item#152765834186 |
 | Bulk Harware order (nuts, bolt, etc)               | 1   | $202.73 | McMaster Carr          |
+| 3/8-in Push Connect x 1/4-in MIP Male Fitting      | 1   | $3.78   | Lowes.com #835028      |
+| 3/8-in Push Connect x 1/4-in MIP dia 90-Degree 	   | 1   | $4.18	 | Lowes.com #835045      |
+| 3/8-in x 25-ft Polyethylene Tubing                 | 1   | $6.18   | Lowes.com #814305      |
+
 
 ## Extrusions
 | Size           | Length | Qty |
@@ -72,15 +78,29 @@
 | M5 Square nut                   | 4   | McMaster-Carr | 90225A101               | 
 | M5 T-nuts                       | 118 | Zyltec.com    | HW-M5-SPRNG-T-NUT-100PK | 
 | M5 high temp washers            | 10  | McMaster-Carr | 93785A214               | 
-| M5 x 15mm custom washer         | 10  |               |                         | 
+| M5 x 15mm high temp/nylon washer| 10  |               |                         | 
 | M5 x 8mm Button Bolt            | 104 | McMaster-Carr | 92095A207               | 
 | M5 x 16mm Bolt                  | 23  | McMaster-Carr | 91292A126               | 
 | M5 x 18mm Button Bolt           | 10  | McMaster-Carr | 92095A481               | 
 | M5 x 30mm Bolt                  | 18  | McMaster-Carr | 91292A192               | 
 | #2 x3/8in thread cutting screws | 2   |               |                         | 
-| JST connectors                  | 6   |               |                         | 
+| JST connectors                  | 6   | ebay          |                         | 
 | Shaft Collar                    | 7   | McMaster-Carr | 9946K15                 | 
 | M3 x8mm Knurled screw           | 2   | McMaster-Carr | 92545A111               | 
+
+
+## Wire Harness
+| Item                            | Qty | Source        | Part #                  | 
+|---------------------------------|-----|---------------|-------------------------| 
+| 34 Pin Male IDC connector       | 1   | TME.com       | AWHP-34P                | 
+| 34 Pin Female IDC Connector     | 1   | Digikey.com   | 3M157228-ND             | 
+| 4 position Molex Plug           | 1   | Digikey.com   | WM1018-ND               | 
+| 4 position Molex receptical     | 1   | Digikey.com   | WM3701-ND               | 
+| Molex Male pin                  | 4   | Digikey.com   | WM2500-ND               | 
+| Molex female pin                | 4   | Digikey.com   | WM2501-ND               | 
+| 20AWG 2 conductor blk/red       | 1   | Digikey.com   | CN180BR-25-ND           | 
+| 26AWG 34 cond multi color ribbon| 1   | Digikey.com   | 3M157870-25-ND          | 
+
 
 ## 34 pin connector pinout
 ![pinout](34_pin_connector_pinout.png)
