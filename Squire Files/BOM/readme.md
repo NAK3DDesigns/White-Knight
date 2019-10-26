@@ -94,6 +94,7 @@
 | 20AWG 2 conductor blk/red       | 1   | Digikey.com   | CN180BR-25-ND           | 
 | 26AWG 40 cond multi color ribbon| 1   | Digikey.com   | 3M157900-25-ND          | 
 
+
 ## Hotend Quick disconnect Bread Board
 | Item                            | QTY | Source        | Part #                  |
 |---------------------------------------------------------------------------------|
