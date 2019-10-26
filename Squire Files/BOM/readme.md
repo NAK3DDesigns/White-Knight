@@ -97,7 +97,7 @@
 
 ## Hotend Quick disconnect Bread Board
 | Item                            | QTY | Source        | Part #                  |
-|---------------------------------------------------------------------------------|
+|---------------------------------|-----|---------------|-------------------------|
 | Molex MicroFit 3.0 6 Pos Header | 1   | Digikey.com   | WM4837-ND               |
 | Molex Microfit 3.0 2 Pos header | 3   | Digikey.com   | WM1922-ND               |
 | Molex Microfit 3.0 6 Pos Recpt  | 1   | Digikey.com   | WM1785-ND               |
