@@ -79,7 +79,8 @@
 | M5 x 30mm Bolt                  | 12  | McMaster-Carr | 91292A192               | 
 | #2 x3/8in thread cutting screws | 2   |               |                         | 
 | JST connectors                  | 6   | ebay          |                         | 
-| Shaft Collar                    | 6   | McMaster-Carr | 9946K15                 | 
+| Shaft Collar                    | 6   | McMaster-Carr | 9946K15                 |
+| Stacked wave spring 5mm shaft   | 4   | McMaster-Carr | 1561T732                | 
 
 
 ## Wire Harness
