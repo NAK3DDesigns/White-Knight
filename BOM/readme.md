@@ -27,6 +27,7 @@
 | 6061 Aluminum Square Bar 1/2" x 19" (61ASB12)      | 1   | $7.95   | Midweststeelsupply.com |
 | Stainless Steel Round Bar 1/2" x 20.5" (316SSRB12) | 1   | $19.28  | Midweststeelsupply.com |
 | Full hardened Stainless steel belt 400mm x 1920mm  | 1   | $210.00 | Belttechnologies.com   |
+| ** Belt may cost up to double this if only ordered Individually **                          |
 | Buildtak sheet 405mm x 2000mm (3 week lead time)   | 1   | $290.00 | Buildtak.com           |
 | Meanwell LRS350-24 powersupply                     | 1   | $30.00  | Jameco.com #2219823    |
 | Silicone Bed heater (ebay item #143206149832)      | 1   | $55.00  | e-bay                  |
