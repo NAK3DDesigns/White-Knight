@@ -30,6 +30,7 @@
 | Meanwell LRS350-24 powersupply                     | 1   | $30.00  | Jameco.com #2219823    |
 | Silicone Bed heater (ebay item #143351332434)      | 1   | $34.00  | e-bay                  |
 | SUNON 40mm fans                                    | 4   | $52.00  | Printed Solid          |
+| Buck converter (part # MP1584EN)					 | 1   | $8.00   | Amazon.com             |
 | 8mm to 12mm shaft coupler                          | 1   | $10.25  | E-bay                  |
 | 4 meters of GT2 Belt                               | 1   | $40.00  | Printed Solid          |
 | BerdAir  Max 24V with eswitch kit                  | 1   | $48.50  | themakerhive.com       |
