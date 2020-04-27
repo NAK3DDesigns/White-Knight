@@ -21,16 +21,16 @@
 | Micro switch endstop                               | 2   | $2.00   | Openbuilds             |
 | Aluminum tube 3" x 9.5"x.125" (61ARDT3125)         | 2   | $16.77  | Midweststeelsupply.com |
 | Aluminum Tool Plate 1/4" x 4" x 15.75" (ALI38)     | 1   | $16.39  | Midweststeelsupply.com |
-| Aluminum tool plate 1/4" x 8" x 15.75" (ALI38)     | 1   | $24.82  | Midweststeelsupply.com |
+| Aluminum tool plate 1/4" x 6" x 15.75" (ALI38)     | 1   | $24.82  | Midweststeelsupply.com |
 | 6061 Aluminum Square Bar 1/2" x 14.25" (61ASB12)   | 1   | $7.95   | Midweststeelsupply.com |
-| Stainless Steel Round Bar 1/2" x 15.75" (316SSRB12)| 1   | $12.75  | Midweststeelsupply.com |
-| Full hardened Stainless steel belt 240mm x 1085mm  | 1   | $265-370 | Belttechnologies.com   |
+| Stainless Steel Round Bar 1/2" x 15.75" (316SSRB12)| 2   | $12.75  | Midweststeelsupply.com |
+| Full hardened Stainless steel belt 240mm x 1085mm  | 1   | $265-370 | Belttechnologies.com  |
 | **** Belt cost varies depending on Quantity ordered, group buys recommended  ****           |
 | Buildtak sheet 250mm x 1185mm (3 week lead time)   | 1   | $175.00 | Buildtak.com           |
 | Meanwell LRS350-24 powersupply                     | 1   | $30.00  | Jameco.com #2219823    |
 | Silicone Bed heater (ebay item #143351332434)      | 1   | $34.00  | e-bay                  |
-| SUNON 40mm fans                                    | 4   | $52.00  | Printed Solid          |
-| Buck converter (part # MP1584EN)					 | 1   | $8.00   | Amazon.com             |
+| SUNON 40mm fans                                    | 5   | $52.00  | Printed Solid          |
+| Buck converter (part # MP1584EN)				        	 | 1   | $8.00   | Amazon.com             |
 | 8mm to 12mm shaft coupler                          | 1   | $10.25  | E-bay                  |
 | 4 meters of GT2 Belt                               | 1   | $40.00  | Printed Solid          |
 | BerdAir  Max 24V with eswitch kit                  | 1   | $48.50  | themakerhive.com       |
