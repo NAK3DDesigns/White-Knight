@@ -23,7 +23,7 @@
 | Aluminum Tool Plate 1/4" x 4" x 15.75" (ALI38)     | 1   | $16.39  | Midweststeelsupply.com |
 | Aluminum tool plate 1/4" x 6" x 15.75" (ALI38)     | 1   | $24.82  | Midweststeelsupply.com |
 | 6061 Aluminum Square Bar 1/2" x 14.25" (61ASB12)   | 1   | $7.95   | Midweststeelsupply.com |
-| Stainless Steel Round Bar 1/2" x 15.75" (316SSRB12)| 2   | $12.75  | Midweststeelsupply.com |
+| 303 Stainless Bearing Shaft 1/2" x 15.75"(303SSBSQ12)| 2   | $14.00  | Midweststeelsupply.com |
 | Full hardened Stainless steel belt 240mm x 1085mm  | 1   | $265-370 | Belttechnologies.com  |
 | **** Belt cost varies depending on Quantity ordered, group buys recommended  ****           |
 | Buildtak sheet 250mm x 1185mm (3 week lead time)   | 1   | $175.00 | Buildtak.com           |
