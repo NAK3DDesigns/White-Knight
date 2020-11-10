@@ -9,7 +9,7 @@
 | Duet Filament Monitor Rotating Magnet Version      | 1   | $52.95  | Printed Solid          |
 | PanelDue 5i                                        | 1   | $89.90  | Printed Solid          |
 | Bondtech BMG                                       | 1   | $80.00  | Printed Solid          |
-| E3Dv6 custom hotend & nozzle                       | 1   | $85.00  | Printed Solid          |
+| E3Dv6 hotend & nozzle (hand filed edge)            | 1   | $85.00  | Printed Solid          |
 | LDO .9 Stepper LDO-42STH40-1684MAC                 | 2   | $32.00  | Printed Solid          |
 | LDO .9 slim stepper LDO-42STH25-1404MAC            | 1   | $15.00  | Printed Solid          |
 | LDO 5:1 geared stepper                             | 1   | $39.87  | Printed Solid          |
