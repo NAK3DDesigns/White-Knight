@@ -90,8 +90,8 @@
 |---------------------------------|-----|---------------|-------------------------| 
 | 40 Pin Male IDC connector       | 1   | Digikey.com   | OR973-ND                | 
 | 40 Pin Female IDC Connector     | 1   | Digikey.com   | OR923-ND                | 
-| 4 position Molex Plug           | 1   | Digikey.com   | WM1018-ND               | 
-| 4 position Molex receptical     | 1   | Digikey.com   | WM3701-ND               | 
+| 4 position Molex Plug           | 2   | Digikey.com   | WM1018-ND               | 
+| 4 position Molex receptical     | 2   | Digikey.com   | WM3701-ND               | 
 | Molex Male pin                  | 4   | Digikey.com   | WM2500-ND               | 
 | Molex female pin                | 4   | Digikey.com   | WM2501-ND               | 
 | 20AWG 2 conductor blk/red       | 1   | Digikey.com   | CN180BR-25-ND           | 
