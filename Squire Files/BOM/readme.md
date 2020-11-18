@@ -68,7 +68,8 @@
 | M3 x 18mm bolt                  | 2   | McMaster-Carr | 92095A472               | 
 | M3 x 25mm bolt                  | 14  | McMaster-Carr | 92095A186               | 
 | M3 x 30mm bolt                  | 1   | McMaster-Carr | 92095A187               | 
-| M3 x 35mm bolt                  | 4   | McMaster-Carr | 92095A201               | 
+| M3 x 35mm bolt                  | 4   | McMaster-Carr | 92095A201               |
+| M3 x 40mm bolt                  | 3   | McMaster-Carr | 92095A203               |
 | M3 x 45mm bolt                  | 2   | McMaster-Carr | 92095A474               | 
 | M4 x 8mm bolt                   | 8   | McMaster-Carr | 92095A189               | 
 | M5 Square nut                   | 4   | McMaster-Carr | 90225A101               | 
