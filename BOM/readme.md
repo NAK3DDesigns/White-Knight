@@ -30,7 +30,7 @@
 | **** Belt cost varies depending on Quantity ordered, group buys recommended  ****           |
 | Buildtak sheet 405mm x 2000mm (3 week lead time)   | 1   | $290.00 | Buildtak.com           |
 | Meanwell LRS350-24 powersupply                     | 1   | $30.00  | Jameco.com #2219823    |
-| Silicone Bed heater (ebay item #143206149832)      | 1   | $55.00  | e-bay                  |
+| Silicone Bed heater 200x400 24v(ebay item #143206149832)| 1   | $55.00  | e-bay                  |
 | Rubber feet                                        | 1   | $10.00  | e-bay                  |
 | 1/2" x 19" aluminum sqaure bar                     | 1   | $7.95   | Midweststeelsupply.com |
 | Noctua 40mm fans                                   | 3   | $45.00  | Amazon                 |
