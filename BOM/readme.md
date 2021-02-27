@@ -43,6 +43,7 @@
 | 3/8-in Push Connect x 1/4-in MIP Male Fitting      | 1   | $3.78   | Lowes.com #835028      |
 | 3/8-in Push Connect x 1/4-in MIP dia 90-Degree 	   | 1   | $4.18	 | Lowes.com #835045      |
 | 3/8-in x 25-ft Polyethylene Tubing                 | 1   | $6.18   | Lowes.com #814305      |
+|Buck converter (part # MP1584EN)                    | 1	 | $8.00	 | Amazon.com             |
 
 
 ## Extrusions
