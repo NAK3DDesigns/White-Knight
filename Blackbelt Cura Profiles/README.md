@@ -9,9 +9,12 @@ Once installed just run this executable, it will install new profiles in Cura.
 Once in Cura go to "Preferences", "Configure Cura", select "Printers" in the left window,
 click "Add", select "NAK 3D Designs" 
 Choose "Squire" or " White Knight"
+
 ****Update****
 This should still work with the latest 3.6.2 version.
 
+
 There are other options now available as well that support belt printing.
+
 IdeaMaker - https://www.raise3d.com/download/
 Kiri:moto - https://grid.space/kiri/
